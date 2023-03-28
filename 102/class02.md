@@ -6,4 +6,7 @@ tags: []
 
 # 102 Class 02
 
-Class 02 of Code 102 guide the students setup the computer for coding. 
+## Class 02 of Code 102
+
+- Introduce code editor and cons of it
+- Introduce the terminal and what can it do
