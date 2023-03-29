@@ -10,4 +10,3 @@ tags: []
 
 - Complete all uncomplete task assignment
 - Demonstrate the student skills to pass this course
-
