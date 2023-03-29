@@ -15,4 +15,3 @@ tags: []
   - Operator
   - Function
 - Refactor with JS Function
-

@@ -9,4 +9,3 @@ tags: []
 ## Class 09 of code 102
 
 - This class talking about career of an IT and prepare an online linkin profile + CV
-
