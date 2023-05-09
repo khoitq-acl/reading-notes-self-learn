@@ -21,7 +21,5 @@ tags: []
 ## Notes
 
 - What is a Constructor function?
-
 - How does the term this differ when reference an object literal versus a Constructor function?
-
 - What are some HTML elements that make up an HTML table?
